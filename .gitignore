@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local Temporary & Scratch Files
+_tmp_*
+*.tmp
+*.log
+
+# Environment variables & secrets
+.env
+*.key

@@ -1,0 +1,13 @@
+{
+  "total_curves": 3900,
+  "labeled_for_train": 2095,
+  "features_used": 60,
+  "optimal_threshold": 0.5,
+  "signal_classes": {
+    "Other": 2913,
+    "Transit": 611,
+    "EclipsingBinary": 375
+  },
+  "transit_candidates": 611,
+  "high_confidence": 209
+}
